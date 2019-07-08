@@ -6,11 +6,6 @@
 יחד מצמצמים את הפערים בחברה ומקדמים את הציבור שלנו לקדמת התעשייה!
 
 
-# מי אנחנו
-### מני מעטוף [![alt text][facebook]][meni-f] [![alt text][github]][meni-g] [![alt text][twitter]][meni-t]
-Tech Lead ב 8200 ובוגר ממר"ם ופרוייקט שח"ר - בינה בירוק 
-
-
 [twitter]: http://i.imgur.com/tXSoThF.png
 [facebook]: http://i.imgur.com/P3YfQoD.png
 [github]: http://i.imgur.com/0o48UoR.png
